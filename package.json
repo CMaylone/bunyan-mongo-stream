@@ -1,0 +1,19 @@
+{
+  "name": "bunyan-mongo-stream",
+  "version": "0.0.1",
+  "description": "Streams bunyan logs into a MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "bunyan",
+    "mongodb",
+    "stream"
+  ],
+  "author": "Corey Maylone",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
